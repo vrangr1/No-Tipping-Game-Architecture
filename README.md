@@ -126,22 +126,6 @@ You can view the running game from the index.html file (by going to `localhost:8
 
 Have both clients establish a connection to the server. If you are using test client you can do so with `python3 test_no_tipping.py --port XXXX --name TEST`.
 
-## Received Code
-
-| Team          | Received On | Test |
-| ------------- | ----------- | ---- |
-| Team Player   | 10/01       | PASS |
-| Yifan         | 10/04       | PASS |
-| Omicron       | 10/04       | PASS |
-| CoCo 11       | 10/05       | PASS |
-| Red Scarf     | 10/05       | PASS |
-| NimRod        | 10/05       | PASS |
-| Space Marines | 10/05       |      |
-| Team Z        | 10/05       | PASS |
-| Black Box     | 10/05       | PASS |
-| ys3450        | 10/05       | PASS |
-
-
 
 ## Contact Us
 Anav Prasad - ap7152@nyu.edu  
